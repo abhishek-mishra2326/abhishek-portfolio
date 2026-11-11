@@ -13,7 +13,7 @@ Personal portfolio website of **Abhishek Mishra**, an aspiring ML Engineer and A
 - Hero section with name, title, intro, and photo
 - Large outlined "PORTFOLIO" text with a parallax scroll effect
 - Scroll-reveal sections and a top scroll-progress bar
-- Flagship project showcase: **NEBULA AI Chatbot (RAG)**
+- Featured projects: **NEBULA AI Chatbot (RAG)** and **IronDesk Gym App**
 - Skills matrix grouped by Languages, AI/ML, Backend, Tools, and Soft Skills
 - Fully responsive for mobile, tablet, and desktop
 
@@ -26,12 +26,16 @@ Personal portfolio website of **Abhishek Mishra**, an aspiring ML Engineer and A
 
 The whole website is a single file, `index.html`, and the photo is embedded inside it.
 
-## Featured Project
+## Featured Projects
 
 **NEBULA AI Chatbot (RAG)** is an AI-powered chatbot enhanced with Retrieval-Augmented Generation to deliver context-aware, relevant, and accurate responses.
 *Beyond Conversations. Into Intelligence.*
 
 Tech: Python, GenAI, RAG, NLP, Vector Embeddings, FastAPI, PostgreSQL, SQLAlchemy
+
+**IronDesk Gym App** is a gym management app that replaces the paper register by handling fee tracking, membership renewals, and absent members. It has 4 roles (Member, Reception, Trainer, Owner) and 11 screens, real-time sync on Firebase, and works as a PWA and Android APK.
+Tech: JavaScript, HTML5, CSS3, Firebase Firestore, Firebase Authentication, PWA (Service Worker), PWABuilder
+[Live demo](https://abhishek-mishra2326.github.io/irondesk-gym/) | [GitHub](https://github.com/abhishek-mishra2326/irondesk-gym)
 
 ## Run Locally
 
