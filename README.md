@@ -13,7 +13,7 @@ Personal portfolio website of **Abhishek Mishra**, an aspiring ML Engineer and A
 - Hero section with name, title, intro, and photo
 - Large outlined "PORTFOLIO" text with a parallax scroll effect
 - Scroll-reveal sections and a top scroll-progress bar
-- Featured projects: **NEBULA AI Chatbot (RAG)** and **IronDesk Gym App**
+- Featured projects: **NEBULA AI Chatbot (RAG)**, **IronDesk Gym App**, and **MOODIFY**
 - Skills matrix grouped by Languages, AI/ML, Backend, Tools, and Soft Skills
 - Fully responsive for mobile, tablet, and desktop
 
@@ -36,6 +36,10 @@ Tech: Python, GenAI, RAG, NLP, Vector Embeddings, FastAPI, PostgreSQL, SQLAlchem
 **IronDesk Gym App** is a gym management app that replaces the paper register by handling fee tracking, membership renewals, and absent members. It has 4 roles (Member, Reception, Trainer, Owner) and 11 screens, real-time sync on Firebase, and works as a PWA and Android APK.
 Tech: JavaScript, HTML5, CSS3, Firebase Firestore, Firebase Authentication, PWA (Service Worker), PWABuilder
 [Live demo](https://abhishek-mishra2326.github.io/irondesk-gym/) | [GitHub](https://github.com/abhishek-mishra2326/irondesk-gym)
+
+**MOODIFY** (*Your Music. Your Mood. Your World.*) is a modern music streaming web app for discovering, exploring, and enjoying music. It features Jamendo API streaming, an interactive player, search, liked songs, playlists, a responsive design, and PWA support with Android packaging via PWABuilder.
+Tech: React.js, Vite, Tailwind CSS, Lucide React, Supabase, Jamendo API, GitHub Actions, PWA
+[Live demo](https://abhishek-mishra2326.github.io/MOODIFY/) | [GitHub](https://github.com/abhishek-mishra2326/MOODIFY)
 
 ## Run Locally
 
